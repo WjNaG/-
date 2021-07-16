@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "中考查分小助手", "中考查分小助手.csproj", "{7946E02C-6E0B-4A8B-9354-BF6E5A2726A5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "中考查分小程序", "..\中考查分小程序\中考查分小程序.vdproj", "{9D4F23B1-4A6E-4025-8125-0F7853D8CACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7946E02C-6E0B-4A8B-9354-BF6E5A2726A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7946E02C-6E0B-4A8B-9354-BF6E5A2726A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7946E02C-6E0B-4A8B-9354-BF6E5A2726A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7946E02C-6E0B-4A8B-9354-BF6E5A2726A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D4F23B1-4A6E-4025-8125-0F7853D8CACB}.Debug|Any CPU.ActiveCfg = Debug
+		{9D4F23B1-4A6E-4025-8125-0F7853D8CACB}.Debug|Any CPU.Build.0 = Debug
+		{9D4F23B1-4A6E-4025-8125-0F7853D8CACB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {921DA9D1-F103-435A-80A5-33CB7BDD28FB}
+	EndGlobalSection
+EndGlobal
