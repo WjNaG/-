@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "中考查分小助手/1.0.0": {
+        "runtime": {
+          "中考查分小助手.dll": {}
+        },
+        "resources": {
+          "agq-CM/中考查分小助手.resources.dll": {
+            "locale": "agq-CM"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "中考查分小助手/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
