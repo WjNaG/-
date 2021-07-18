@@ -1,0 +1,9 @@
+E:\From Github\新建文件夹 (2)\中考查分小助手\中考查分小助手\bin\Debug\中考查分小助手.exe
+E:\From Github\新建文件夹 (2)\中考查分小助手\中考查分小助手\bin\Debug\中考查分小助手.pdb
+E:\From Github\新建文件夹 (2)\中考查分小助手\中考查分小助手\obj\Debug\中考查分小助手.csproj.AssemblyReference.cache
+E:\From Github\新建文件夹 (2)\中考查分小助手\中考查分小助手\obj\Debug\中考查分小助手.Form1.resources
+E:\From Github\新建文件夹 (2)\中考查分小助手\中考查分小助手\obj\Debug\中考查分小助手.Properties.Resources.resources
+E:\From Github\新建文件夹 (2)\中考查分小助手\中考查分小助手\obj\Debug\中考查分小助手.csproj.GenerateResource.cache
+E:\From Github\新建文件夹 (2)\中考查分小助手\中考查分小助手\obj\Debug\中考查分小助手.csproj.CoreCompileInputs.cache
+E:\From Github\新建文件夹 (2)\中考查分小助手\中考查分小助手\obj\Debug\中考查分小助手.exe
+E:\From Github\新建文件夹 (2)\中考查分小助手\中考查分小助手\obj\Debug\中考查分小助手.pdb
